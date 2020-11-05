@@ -1,4 +1,4 @@
-package com.sulabh;
+package com.sulabh.LinkedList;
 
 public class Node {
 

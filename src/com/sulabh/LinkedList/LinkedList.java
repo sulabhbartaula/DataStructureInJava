@@ -1,4 +1,4 @@
-package com.sulabh;
+package com.sulabh.LinkedList;
 /*
 linked list implementation in java.
 In this program, different operations like adding head, tail , removing nodes and traversing different nodes
